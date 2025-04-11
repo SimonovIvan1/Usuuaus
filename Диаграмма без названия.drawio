@@ -713,7 +713,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1I50ZlxBkdGnXdptz1mi-147" value="Идентификатор менеджера" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="1I50ZlxBkdGnXdptz1mi-145" vertex="1">
+        <mxCell id="1I50ZlxBkdGnXdptz1mi-147" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="1I50ZlxBkdGnXdptz1mi-145" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -816,7 +816,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1I50ZlxBkdGnXdptz1mi-174" value="Этапы пайплайнов" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="376" y="3582" width="180" height="120" as="geometry" />
+          <mxGeometry x="322" y="3597" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1I50ZlxBkdGnXdptz1mi-175" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="1I50ZlxBkdGnXdptz1mi-174" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -997,7 +997,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1I50ZlxBkdGnXdptz1mi-226" value="Тесты этапа пайплайна" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="254" y="3723" width="180" height="120" as="geometry" />
+          <mxGeometry x="259" y="3762" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1I50ZlxBkdGnXdptz1mi-227" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="1I50ZlxBkdGnXdptz1mi-226" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1164,7 +1164,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QuI3MErG6oV4Gpks6SI-135" value="ManagerId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-133" vertex="1">
+        <mxCell id="8QuI3MErG6oV4Gpks6SI-135" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-133" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1279,7 +1279,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QuI3MErG6oV4Gpks6SI-162" value="Идентификатор этапа" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-160" vertex="1">
+        <mxCell id="8QuI3MErG6oV4Gpks6SI-162" value="StageId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-160" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1292,7 +1292,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QuI3MErG6oV4Gpks6SI-165" value="Идентификатор пайплайна" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-163" vertex="1">
+        <mxCell id="8QuI3MErG6oV4Gpks6SI-165" value="PipelineId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-163" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1305,7 +1305,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QuI3MErG6oV4Gpks6SI-168" value="Название этапа" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-166" vertex="1">
+        <mxCell id="8QuI3MErG6oV4Gpks6SI-168" value="StageName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="8QuI3MErG6oV4Gpks6SI-166" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1573,11 +1573,29 @@
         <mxCell id="K6BNDRT-fg7f0abATQKu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442" y="4414" width="31" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="K6BNDRT-fg7f0abATQKu-6" value="TestConditions" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="78" y="4792" width="151" height="29" as="geometry" />
+        <mxCell id="K6BNDRT-fg7f0abATQKu-6" value="&amp;nbsp; TestConditions" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="78" y="4792" width="150" height="29" as="geometry" />
         </mxCell>
         <mxCell id="K6BNDRT-fg7f0abATQKu-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="4792" width="31" height="29" as="geometry" />
+          <mxGeometry x="48" y="4792" width="30" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="K6BNDRT-fg7f0abATQKu-8" value="&amp;nbsp; Код проекта" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="420" y="3539" width="151" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="K6BNDRT-fg7f0abATQKu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="3539" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="K6BNDRT-fg7f0abATQKu-11" value="&amp;nbsp; Условия выполнения теста" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="36" y="3886" width="151" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="K6BNDRT-fg7f0abATQKu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7" y="3886" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="K6BNDRT-fg7f0abATQKu-13" value="&amp;nbsp; IsBaseTest" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="78" y="4819" width="150" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="K6BNDRT-fg7f0abATQKu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="4819" width="30" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
